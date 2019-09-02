@@ -1,0 +1,14 @@
+E:\GitHubRepo\CoreDev\Supermarket.API\bin\Debug\netcoreapp2.2\Supermarket.API.deps.json
+E:\GitHubRepo\CoreDev\Supermarket.API\bin\Debug\netcoreapp2.2\Supermarket.API.runtimeconfig.json
+E:\GitHubRepo\CoreDev\Supermarket.API\bin\Debug\netcoreapp2.2\Supermarket.API.runtimeconfig.dev.json
+E:\GitHubRepo\CoreDev\Supermarket.API\bin\Debug\netcoreapp2.2\Supermarket.API.dll
+E:\GitHubRepo\CoreDev\Supermarket.API\bin\Debug\netcoreapp2.2\Supermarket.API.pdb
+E:\GitHubRepo\CoreDev\Supermarket.API\obj\Debug\netcoreapp2.2\Supermarket.API.csprojAssemblyReference.cache
+E:\GitHubRepo\CoreDev\Supermarket.API\obj\Debug\netcoreapp2.2\Supermarket.API.csproj.CoreCompileInputs.cache
+E:\GitHubRepo\CoreDev\Supermarket.API\obj\Debug\netcoreapp2.2\Supermarket.API.RazorAssemblyInfo.cache
+E:\GitHubRepo\CoreDev\Supermarket.API\obj\Debug\netcoreapp2.2\Supermarket.API.RazorAssemblyInfo.cs
+E:\GitHubRepo\CoreDev\Supermarket.API\obj\Debug\netcoreapp2.2\Supermarket.API.AssemblyInfoInputs.cache
+E:\GitHubRepo\CoreDev\Supermarket.API\obj\Debug\netcoreapp2.2\Supermarket.API.AssemblyInfo.cs
+E:\GitHubRepo\CoreDev\Supermarket.API\obj\Debug\netcoreapp2.2\Supermarket.API.RazorTargetAssemblyInfo.cache
+E:\GitHubRepo\CoreDev\Supermarket.API\obj\Debug\netcoreapp2.2\Supermarket.API.dll
+E:\GitHubRepo\CoreDev\Supermarket.API\obj\Debug\netcoreapp2.2\Supermarket.API.pdb
